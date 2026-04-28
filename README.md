@@ -1,4 +1,4 @@
 # SCM_HW1_YASSER
 
 
-This repository is created for the SWE442 homework assignment to demonstrate software configuration management using GitHub
+SCM Best Practices: Always use meaningful commit messages, work on feature branches, and perform regular merges to avoid conflicts.
